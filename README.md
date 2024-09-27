@@ -25,9 +25,13 @@ Um botão que copie o texto criptografado/descriptografado para a área de trans
 # Conteúdos utilizados:
 Cursos Alura:
 Lógica de programação I e II
+
 HTML5 e CSS3 completo
+
 JavaScript: programando na linguagem da web
+
 Git e Github: controle e compartilhe seu código
+
 Alura+: Como um(a) desenvolvedor(a) front-end utiliza o Figma
 
 
