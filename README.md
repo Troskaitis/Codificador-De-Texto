@@ -1,5 +1,6 @@
-## Alura + Oracle ONE                                                                                         ![image](https://github.com/user-attachments/assets/c9e445d1-df42-4395-ab21-8b71339f8f08)
+## Alura + Oracle ONE                                                                                         
 
+![image](https://github.com/user-attachments/assets/c9e445d1-df42-4395-ab21-8b71339f8f08)
 
 
 # Codificador e Decodificador de Texto
