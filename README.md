@@ -1,4 +1,5 @@
-## Alura + Oracle ONE 👩
+## Alura + Oracle ONE ![image](https://github.com/user-attachments/assets/c9e445d1-df42-4395-ab21-8b71339f8f08)
+
 
 
 # Codificador e Decodificador de Texto
@@ -29,8 +30,12 @@ Git e Github: controle e compartilhe seu código
 Alura+: Como um(a) desenvolvedor(a) front-end utiliza o Figma
 
 
-Badge referente ao termino do Challenge
+![image](https://github.com/user-attachments/assets/beac886f-259a-485a-97dc-d754b6044240)
+
 
 #challengeonedecodificador2
 
 Resultado do projeto:
+https://codificador-de-texto-sigma.vercel.app/
+
+![Uploading image.png…]()
