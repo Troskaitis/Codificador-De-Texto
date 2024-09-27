@@ -1,4 +1,4 @@
-## Alura + Oracle ONE ![image](https://github.com/user-attachments/assets/c9e445d1-df42-4395-ab21-8b71339f8f08)
+## Alura + Oracle ONE                                                                                         ![image](https://github.com/user-attachments/assets/c9e445d1-df42-4395-ab21-8b71339f8f08)
 
 
 
@@ -38,4 +38,5 @@ Alura+: Como um(a) desenvolvedor(a) front-end utiliza o Figma
 Resultado do projeto:
 https://codificador-de-texto-sigma.vercel.app/
 
-![Uploading image.png…]()
+![Captura de tela 2024-09-27 205352](https://github.com/user-attachments/assets/d6c2fdab-6a20-4bc3-b53d-5b750af59583)
+
